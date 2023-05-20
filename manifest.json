@@ -1,0 +1,10 @@
+{
+  "name": "your_mod_pack_name",
+  "description": "your mod short description",
+  "version_number": "1.0.0",
+  "website_url": "your url",
+  "dependencies": [
+    "...",
+    "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}
